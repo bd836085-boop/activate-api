@@ -1,0 +1,8 @@
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic>=2.6
+httpx[http2]>=0.27
+google-play-scraper>=1.2.7
+pycryptodome>=3.20
+protobuf>=4.25
+protobuf-decoder>=0.2.1
